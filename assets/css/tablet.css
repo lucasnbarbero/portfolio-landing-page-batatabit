@@ -1,0 +1,18 @@
+.plans-container--slider {
+  width: 80%;
+  justify-content: center;
+  overflow-x: auto;
+}
+
+.main-tables-container {
+  justify-content: center;
+  width: 70%;
+  overflow-x: auto;
+}
+
+.product-cards--container {
+  display: grid;
+  width: 80%;
+  margin: 0px auto;
+  grid-template-columns: repeat(2, 1fr);
+}
